@@ -365,7 +365,7 @@ window.QUESTIONS = [
       "Put a −1.00 DC lens at axis 90",
       "Test the 45 and 135 positions next"
     ],
-    "answer": 3
+    "answer": 0
   },
   {
     "id": "Q27",
