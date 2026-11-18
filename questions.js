@@ -90,7 +90,7 @@ window.QUESTIONS = [
     "id": "Q7",
     "section": "Case history",
     "stem": [
-      "Which question is best to ask about the person's chief complaint?"
+      "Which question is best to ask to find out about the person's chief complaint?"
     ],
     "options": [
       "\"Do you need new spectacles?\"",
