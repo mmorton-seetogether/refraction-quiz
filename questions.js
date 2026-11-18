@@ -175,7 +175,7 @@ window.QUESTIONS = [
     "id": "Q13",
     "section": "Objective testing and retinoscopy",
     "stem": [
-      "You see an \"against\" movement with a −2.00 D lens. What lens do you try next?"
+      "You see a bright \"against\" movement with a −2.00 D lens. What lens do you try next?"
     ],
     "options": [
       "+2.00 D",
@@ -231,13 +231,13 @@ window.QUESTIONS = [
     "id": "Q17",
     "section": "Objective testing and retinoscopy",
     "stem": [
-      "Which sign in retinoscopy shows that the person has astigmatism?"
+      "Which reflex appearance in retinoscopy shows that the person has astigmatism?"
     ],
     "options": [
       "The reflex is the same in all meridians",
       "The reflex moves \"with\" the streak in all meridians",
       "The reflex is very bright and moves fast",
-      "The reflex has a \"break\" and is not lined up with the streak"
+      "The reflex sometimes has a \"break\" and is not lined up with the streak"
     ],
     "answer": 3
   },
@@ -365,7 +365,7 @@ window.QUESTIONS = [
       "Put a −1.00 DC lens at axis 90",
       "Test the 45 and 135 positions next"
     ],
-    "answer": 0
+    "answer": 3
   },
   {
     "id": "Q27",
@@ -692,7 +692,7 @@ window.QUESTIONS = [
     "id": "Q49",
     "section": "Prescribing spectacles",
     "stem": [
-      "A person's new spectacles are a big change from their old ones. What do you tell them?"
+      "A person's new spectacles are quite a big change from their old ones. What do you tell them?"
     ],
     "options": [
       "Wear them a little each day, and stop if they feel strange",
@@ -706,7 +706,7 @@ window.QUESTIONS = [
     "id": "Q50",
     "section": "Prescribing spectacles",
     "stem": [
-      "A 48-year-old woman can read N8 without spectacles. She says her near vision is not a problem. What do you recommend?"
+      "A 48-year-old woman can read N6 without spectacles. She says her near vision is clear and comfortable. What do you recommend?"
     ],
     "options": [
       "Near spectacles",
